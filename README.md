@@ -1,6 +1,12 @@
-🚀 Mastering Design Patterns & SOLID Principles in C#
-📘 Course Overview
+# 🚀 Mastering Design Patterns & SOLID Principles in C#
+
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/ASP.NET_Core_Web_API/blob/main/Images/visual%20selection.png" height="auto" width="1000" />
+</kbd>
+
+## 📘 Course Overview
 Welcome to the ultimate guide for mastering object-oriented programming (OOP) design patterns and SOLID principles in C#! This comprehensive repository is your roadmap to writing clean, maintainable, and scalable software.
+
 🎯 Course Objectives
 
 Learn fundamental OOP concepts
