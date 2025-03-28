@@ -87,3 +87,8 @@ MIT License - Learn, modify, and share!
 "Design patterns are not a silver bullet. They are a toolkit. Use them wisely, not everywhere."
 
 Happy Coding! 👨‍💻👩‍💻
+
+<p align="center">
+	<h3>About the author</h3>
+    <a href="https://www.linkedin.com/in/mxolisi-nkosi-b47b57117/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+</p>
