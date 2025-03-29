@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\stuff\\Master-Design-Patterns-SOLID-Principles-in-C-Sharp\\OOP_Principles\\OOP\\Encapsulation\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215A0C4E-AF7C-4AB9-90B5-1181B14F7DBE}|Encapsulation.csproj|c:\\users\\user\\source\\repos\\stuff\\master-design-patterns-solid-principles-in-c-sharp\\oop_principles\\oop\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215A0C4E-AF7C-4AB9-90B5-1181B14F7DBE}|Encapsulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\stuff\\Master-Design-Patterns-SOLID-Principles-in-C-Sharp\\OOP_Principles\\OOP\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\stuff\\Master-Design-Patterns-SOLID-Principles-in-C-Sharp\\OOP_Principles\\OOP\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:26:53.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
