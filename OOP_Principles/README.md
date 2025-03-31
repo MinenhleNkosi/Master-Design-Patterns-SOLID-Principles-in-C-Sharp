@@ -8,3 +8,7 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 </kbd>
 
 ## Key OOP Principles
+
+## 📚 Resources
+- [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [C# Object-Oriented Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
