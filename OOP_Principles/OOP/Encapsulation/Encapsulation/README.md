@@ -1,11 +1,4 @@
-# Object-Oriented Programming in C#
-
-## Overview
-Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" and classes to design and structure software applications. In C#, OOP is centered around organizing code into reusable, self-contained units called classes.
-
-## Key OOP Principles
-
-### 1. Encapsulation
+# Encapsulation
 Encapsulation is a fundamental principle of object-oriented programming that involves bundling data and methods that operate on the data within a single unit, typically a class. In C#, encapsulation is typically implemented using:
 
 - **🔒 Access modifiers**: public, private, protected, internal
@@ -196,10 +189,3 @@ public static void Main(string[] args)
 }
 ```
 </details>
-
-## 📚 Resources
-- [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [C# Object-Oriented Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
