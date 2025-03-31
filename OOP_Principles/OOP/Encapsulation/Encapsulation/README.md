@@ -5,6 +5,10 @@ Encapsulation is a fundamental principle of object-oriented programming that inv
 - **🔧 Properties**: with getters and setters
 - **🛠️ Methods**: that provide controlled access to internal data
 
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/Master-Design-Patterns-SOLID-Principles-in-C-Sharp/blob/main/Images/1.png" height="800" width="1000" />
+</kbd>
+
 #### Benefits of Encapsulation:
 - **🛡️ Data Protection**: Internal state is protected from unauthorized access.
 - **✔️ Controlled Changes**: Data can be validated before modification.
