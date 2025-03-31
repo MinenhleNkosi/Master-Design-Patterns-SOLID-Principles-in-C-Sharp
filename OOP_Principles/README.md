@@ -8,6 +8,11 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 </kbd>
 
 ## Key OOP Principles
+  - [Encapsulation](https://github.com/MinenhleNkosi/Master-Design-Patterns-SOLID-Principles-in-C-Sharp/tree/main/OOP_Principles/OOP/Encapsulation/Encapsulation)
+  - Abstraction
+  - Inheritance
+  - Polymorphism
+  - Coupling
 
 ## 📚 Resources
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
