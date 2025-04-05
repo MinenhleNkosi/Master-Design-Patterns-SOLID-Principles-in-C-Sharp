@@ -17,7 +17,7 @@ namespace Encapsulation
 
         public void Deposit(decimal amount)
         {
-            var results = amount <= 0 ? throw new ArgumentException("Deposit amount must be positive") : _balance += amount;
+            var results = amount <= 0 ? throw new ArgumentException("Deposit amount must be positive and not zero") : _balance += amount;
         }
 
         public void Withdraw(decimal amount)
