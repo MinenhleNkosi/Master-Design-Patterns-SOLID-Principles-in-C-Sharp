@@ -8,5 +8,6 @@ public class Program
         badExampleBalance.balance = 100;
         Console.WriteLine(badExampleBalance.balance);
         Console.ReadLine();
+
     }
 }
